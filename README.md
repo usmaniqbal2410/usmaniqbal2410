@@ -9,8 +9,8 @@
 
 ---
 
-<!-- PROFILE IMAGE: replace the URL below after you upload your image to the repo (instructions below) -->
-<img align="right" height="150" src="https://raw.githubusercontent.com/usmaniqbal2410/usmaniqbal2410/main/assets/profile.jpg" alt="Usman Iqbal" />
+<!-- Profile photo placeholder - replace with your own -->
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Usman Iqbal" />
 
 ### 🛠 Skills & Technologies
 <div align="left">
@@ -20,12 +20,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="Express.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
-  <!-- Correct Laravel wordmark SVG -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" alt="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="30" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
@@ -59,6 +58,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Random demo snake animation -->
+![Contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
