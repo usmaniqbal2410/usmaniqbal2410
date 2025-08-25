@@ -1,10 +1,37 @@
-<h2 align="left">Hi 👋! My name is Usman Iqbal and I'm a MERN Stack & Laravel Developer, from Lahore, Pakistan</h2>
+<h1 align="center">
+  <div align="center" style="margin-bottom: 20px;">
+    <span class="animated-gradient">Usman Iqbal</span>
+  </div>
+  <div align="center" style="height: 70px;">
+    <span id="animated-title"></span>
+  </div>
+</h1>
+
+<h3 align="center">Full Stack Developer from Lahore, Pakistan</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3FCE&center=true&vCenter=true&width=435&lines=Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" /></a>
+</p>
 
 ---
 
+## 👨‍💻 About Me
+
+I’m a Full Stack Developer working with the MERN stack and Laravel. I like building web applications and keep learning new technologies to improve my work.
+
+- 🔭 I’m currently working on **advanced MERN stack projects**
+- 🌱 I’m learning **advanced React patterns and Node.js optimization**
+- 👯 I’m looking to collaborate on **open source projects** 
+
+---
+
+## 📊 GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmaniqbal2410&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=dracula&hide_border=false&bg_color=0D1117&title_color=FF791F&icon_color=FF791F" height="165" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaniqbal2410&theme=dracula&hide_border=false&background=0D1117&fire=FF791F&currStreakLabel=FF791F" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmaniqbal2410&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&bg_color=45,5A34AE,7E3FCE&title_color=FFF" height="165" alt="languages graph" />
+</div>
 </div>
 
 ---
@@ -14,23 +41,47 @@
 
 ### 🛠 Skills & Technologies
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="30" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <!-- Core -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+<img width="10"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="Express.js" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
+<img width="10"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="35" alt="Laravel" />
+
+<!-- Frontend Frameworks -->
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
+<img width="10"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="Tailwind CSS" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="Material UI" />
+
+<!-- Databases -->
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+
+<!-- Tools -->
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="35" alt="WebStorm" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="35" alt="PhpStorm" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
+
 </div>
 
 ---
