@@ -1,0 +1,29 @@
+name: Generate Contribution
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Generate the snake SVG
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: usmaniqbal2410
+          outputs: github-contribution-grid-snake.svg
+
+      # Push the generated file
+      - name: Push Snake to main
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "github-contribution-grid-snake.svg"
+          message: "Update contribution snake"
