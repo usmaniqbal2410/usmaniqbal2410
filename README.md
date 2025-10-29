@@ -109,7 +109,9 @@ I’m a Full Stack Developer working with the MERN stack and Laravel. I like bui
 
 <br clear="both">
 
-<!-- Random demo snake animation -->
-![Contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## Contribution Snake
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/usmaniqbal2410/usmaniqbal2410/main/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
+</p>
 
 ---
