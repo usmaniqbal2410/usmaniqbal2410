@@ -52,12 +52,15 @@ My focus is on writing **clean, reliable, and scalable code** while keeping user
   <!-- Dark Mode GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=dracula&hide_border=false&bg_color=0D1117&title_color=FF791F&icon_color=FF791F" height="165" alt="stats graph" />
   <!-- Dark Mode Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaniqbal2410&theme=dracula&hide_border=false&background=0D1117&fire=FF791F&currStreakLabel=FF791F" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.vercel.app/?user=usmaniqbal2410&theme=dracula&hide_border=false&background=0D1117&fire=FF791F&currStreakLabel=FF791F" height="165" alt="GitHub Streak" />
  <!-- Dark Mode Top Languages -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniqbal2410&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniqbal2410&layout=compact&theme=default&hide_border=true" height="150"/>
 </picture>
+  <br/>
+
+<img src="https://github-profile-trophies.vercel.app/?username=usmaniqbal2410&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
 </div> 
 
 ---
