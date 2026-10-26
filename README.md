@@ -51,10 +51,10 @@ My focus is on writing **clean, reliable, and scalable code** while keeping user
 <div align="center">
   <!-- Dark Mode GitHub Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=dracula&hide_border=false&bg_color=0D1117&title_color=FF791F&icon_color=FF791F" height="165" alt="stats graph" /> -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=radical&hide_border=true&animate=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaniqbal2410&show_icons=true&theme=radical&hide_border=true&animate=true" height="165" alt="Stats" />
   
  <!-- Dark Mode Top Languages -->
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmaniqbal2410&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniqbal2410&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" /> 
   
   <!-- Dark Mode Streak Stats -->
 <img src="https://streak-stats.vercel.app/?user=usmaniqbal2410&theme=dracula&hide_border=false&background=0D1117&fire=FF791F&currStreakLabel=FF791F" height="165" alt="GitHub Streak" />
